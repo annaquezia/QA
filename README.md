@@ -1,4 +1,4 @@
-# 🧾 Projeto – Processo de Garantia da Qualidade (QA)
+# Projeto – Processo de Garantia da Qualidade (QA)
 
 ## Objetivo
 Este trabalho tem como objetivo **avaliar produtos de trabalho de um projeto por meio de auditorias de qualidade**, aplicando na prática os conceitos de **Garantia da Qualidade de Software (GQA)**.  
